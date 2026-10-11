@@ -1,0 +1,14 @@
+/bin/7z
+
+*.test
+*.out
+*.tmp
+
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+.env
+.env.*
+!.env.example
